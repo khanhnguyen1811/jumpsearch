@@ -1,0 +1,2 @@
+# jumpsearch
+Jump search algrothim
